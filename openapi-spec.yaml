@@ -1,6 +1,6 @@
 openapi: 3.1.0
 servers:
-  - url: localhost:3000
+  - url: https://groceries-demo.dev.insomnia.moe/
 tags:  
   - name: test
     description: just a test tag
