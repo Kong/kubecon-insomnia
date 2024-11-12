@@ -1,3 +1,6 @@
+## Downloads
+- https://github.com/Kong/insomnia/releases/tag/core%4010.2.0-beta.3
+
 ## OpenAPI Spec starter for the workshop
 
 This spec file is based on the following repository made by @filfreire: https://github.com/filfreire/groceries-insomnia
