@@ -8,8 +8,7 @@ You can also follow instruction to run the python application in a container to 
 
 Go to https://insomnia.rest/create-run-button to generate the following markdown or html snippet with your own Insomnia export file url (you can use your Github repository).
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=insomnia%20session&
-uri=https%3A%2F%2Fraw.githubusercontent.com%2Fmarckong%2Finsomnia-session%2Fmaster%2Fexport.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=insomnia%20session&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fmarckong%2Finsomnia-session%2Fmaster%2Fexport.json)
 
 ### URLs for demo sessions
 
