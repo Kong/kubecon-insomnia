@@ -37,3 +37,9 @@ Go to https://insomnia.rest/create-run-button to generate the following markdown
   ]
 }
 ```
+
+#### Server Sent Event
+- http://localhost:4010/events (run this from Insomnia repo)
+
+#### GRPC
+- grpc://localhost:50051 (run this from Insomnia repo)
